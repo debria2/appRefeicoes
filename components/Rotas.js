@@ -9,7 +9,7 @@ const Stack = createStackNavigator();
 
 export default function Rotas() {
     return(
-        <Stack.Navigator>
+        <Stack.Navigator screenOptions={{headerShown: false}}>
             <Stack.Screen name="Home" component={Home} />
             <Stack.Screen name="Cadastrar" component={Cadastrar}/>
             <Stack.Screen name="Alterar" component={Alterar} />
