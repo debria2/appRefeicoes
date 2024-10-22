@@ -53,7 +53,7 @@ const estilo = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: 'black',
+        backgroundColor: 'green',
     },
     titulo: {
         fontSize: 50,
