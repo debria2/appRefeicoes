@@ -186,7 +186,7 @@ const estilo = StyleSheet.create({
 
     BtnCadastrar: {
         fontSize: 80,
-        left: '40%',
+        left: '42%',
         bottom: '25%',
         width: 50,
         height: 50,
